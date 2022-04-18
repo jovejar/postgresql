@@ -1,6 +1,6 @@
 -- Parte 1
 -- 1. Crear una base de datos con nombre “Posts”. (1 Punto)
-\c marlen
+\c jovejar
 DROP DATABASE posts;
 CREATE DATABASE  posts;
 \c posts
